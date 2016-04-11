@@ -1,2 +1,2 @@
 # hello-world
-first try.
+I'm a freshman in UCAS.I start to program and I hope I can keep on programming.
